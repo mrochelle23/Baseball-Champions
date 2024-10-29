@@ -25,6 +25,8 @@
 /* Begin PBXFileReference section */
 		4DAE91EF2C160F6500BBB5B0 /* Baseball Champions */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Baseball Champions"; sourceTree = BUILT_PRODUCTS_DIR; };
 		4DAE91F22C160F6500BBB5B0 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		4DF6EAD72C1F900B001B4BB8 /* Teams.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Teams.txt; sourceTree = "<group>"; };
+		4DF6EAD82C1F900B001B4BB8 /* WorldSeriesWinners.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = WorldSeriesWinners.txt; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,8 @@
 		4DAE91F12C160F6500BBB5B0 /* Baseball Champions */ = {
 			isa = PBXGroup;
 			children = (
+				4DF6EAD72C1F900B001B4BB8 /* Teams.txt */,
+				4DF6EAD82C1F900B001B4BB8 /* WorldSeriesWinners.txt */,
 				4DAE91F22C160F6500BBB5B0 /* main.cpp */,
 			);
 			path = "Baseball Champions";
